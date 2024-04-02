@@ -598,7 +598,7 @@ First, we tested the time for BFV.
 
 ### BFV
 
-The encryption parameters for BFV are as follows, ensuring the encryption capacity can accommodate a 64*64*3 size image vector:
+The encryption parameters for BFV are as follows, ensuring the encryption capacity can accommodate a 64\*64\*3 size image vector:
 
 ``` python
 poly_modulus_degree = 32768
